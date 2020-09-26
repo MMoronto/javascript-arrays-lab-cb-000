@@ -33,6 +33,6 @@ function removeLastKitten() {
   return [...kittens, "Broom"]
 }
 
-function removeLastKitten() {
+function removeFirstKitten() {
   return [...kittens, "Broom"]
 }
