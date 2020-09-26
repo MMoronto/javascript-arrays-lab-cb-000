@@ -1,4 +1,6 @@
 var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 
 // Add your functions and code here
-kittens.
+kittens.push("Chermin-Meow")
+
+kittens.shift("Kitty_hawkes")
