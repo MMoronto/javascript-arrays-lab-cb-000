@@ -32,3 +32,7 @@ function prependKitten(name) {
 function removeLastKitten() {
   return [...kittens, "Broom"]
 }
+
+function removeLastKitten() {
+  return [...kittens, "Broom"]
+}
